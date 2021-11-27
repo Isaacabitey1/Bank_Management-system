@@ -1,1 +1,7 @@
-# Bank_Management-system
+BANK MANAGEMENT SYSTEM - C PROGRAMMING
+
+
+PASSWORD - passed
+
+ATM ACC PIN NUMBER - 234674
+
