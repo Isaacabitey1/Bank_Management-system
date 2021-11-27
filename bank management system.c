@@ -16,7 +16,7 @@ struct {
     char name[60];
     int acc_no,age;
     char address[60];
-    char citizenship[15];
+    char valid_ID[15];
     double phone;
     char acc_type[10];
     float amt;
