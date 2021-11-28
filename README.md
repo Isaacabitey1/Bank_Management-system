@@ -1,7 +1,7 @@
 BANK MANAGEMENT SYSTEM - C PROGRAMMING
 
 
-PASSWORD - passed
+BANK login password - passed
 
-ATM ACC PIN NUMBER - 234674
+ATM account login pin number/code - 234674
 
