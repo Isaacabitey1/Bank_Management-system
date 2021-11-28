@@ -400,7 +400,7 @@ void see(void)
     }
     else if (choice==2)
     {   printf("Enter the name:");
-        scanf("%s",&check.name);
+        scanf("%s",&check.name[0]);
         while (fscanf(ptr,"%d %s %d/%d/%d %d %s %s %lf %s %f %d/%d/%d",&add.acc_no,add.name,&add.dob.month,&add.dob.day,&add.dob.year,&add.age,add.address,add.valid_ID,&add.phone,add.acc_type,&add.amt,&add.deposit.month,&add.deposit.day,&add.deposit.year)!=EOF)
         {
             if(strcmp(add.name,check.name)==0)
